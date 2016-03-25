@@ -49,7 +49,8 @@ Cursor.prototype.show = function() {
   this.hidden = true;
 }
 
-// CURSOR ===================================================
+// Helper Cursor Functions ===================================================
+// TODO: Extract into seprate module
 // Moves the cursor cellNum (default 1) cells in the given direction. If the cursor is already 
 //   at the edge of the screen, this has no effect.
 function cursorUpString(cellNum) {
