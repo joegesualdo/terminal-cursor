@@ -1,5 +1,5 @@
 ## Terminal Cursor [![Build Status](https://travis-ci.org/joegesualdo/terminal-cursor.svg?branch=master)](https://travis-ci.org/joegesualdo/terminal-cursor)
-> Manipulate terminal cursor
+> Manipulate terminal cursor (move, hide, show, etc)
 
 ## Install
 ```
