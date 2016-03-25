@@ -1,0 +1,29 @@
+{
+  "name": "terminal-cursor",
+  "version": "0.0.1",
+  "description": "Manipulate terminal cursor",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": "joegesualdo/terminal-cursor",
+  "keywords": [
+    "terminal",
+    "cursor",
+    "ansi",
+    "move",
+    "show",
+    "hide"
+  ],
+  "author": {
+    "name": "Joe Gesualdo"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "dependencies": {
+    "control-sequence-introducer": "*"
+  }
+}
