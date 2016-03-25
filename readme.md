@@ -24,7 +24,7 @@ $ npm test
 
 ## API
 
-### `new Constuctor(xPos, yPos)`
+### `new Cursor(xPos, yPos)`
 > Creates an instance of Cursor at a given position
 
 | Name | Type | Description |
