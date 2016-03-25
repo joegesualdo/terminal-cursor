@@ -1,7 +1,7 @@
 {
   "name": "terminal-cursor",
   "version": "0.0.1",
-  "description": "Manipulate terminal cursor (move, hide, show, etc)",
+  "description": "Manipulate the terminal cursor (move, hide, show, etc)",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
