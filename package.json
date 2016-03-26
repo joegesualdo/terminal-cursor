@@ -1,6 +1,6 @@
 {
   "name": "terminal-cursor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Manipulate the terminal cursor (move, hide, show, etc)",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
     "chai": "*"
   },
   "dependencies": {
-    "control-sequence-introducer": "*"
+    "control-sequence-introducer": "*",
+    "move-terminal-cursor": "0.0.2"
   }
 }
